@@ -1,5 +1,5 @@
 # Data-Analytics
-Great question! Here are some steps you can take to begin your data analyst journey:
+Begin your data analyst journey:
 
 Learn the basics of statistics and data analysis. This includes concepts like mean, median, mode, standard deviation, correlation, and regression. You can find courses and tutorials on websites like Coursera, edX, or Khan Academy.
 
