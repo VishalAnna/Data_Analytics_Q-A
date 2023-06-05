@@ -1,3 +1,4 @@
+Simple SQL 30 Questions and answers 
 CREATE DATABASE 30_questions;
 USE 30_questions;
 /****************************************/
