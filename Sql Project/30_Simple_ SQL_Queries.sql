@@ -227,7 +227,9 @@ NOTE: for POSTGRESQL only. Mysql doesn't support except
 /*
 29.Query names of every company and change the name of column to 'Company'
 */
+
 select `name` as Company from company ;
+
 /*
 30. Query all employees that work in same department as Peter
 */
