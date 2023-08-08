@@ -14,6 +14,7 @@ i) Employee with attributes (id, name, city, department, salary)
 ii) Department with attributes (id, name)
 iii) Company with attributes (id, name, revenue)
 */
+
 create 	TABLE 	employee(
 `id` int,
 `name` varchar(30),
@@ -30,6 +31,7 @@ CREATE TABLE company (
 `name` varchar(30),
 `revenue` int
 );
+
 
 /*
 4. Add rows into Department table
